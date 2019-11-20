@@ -9,12 +9,3 @@
 * An UpdateHub account to access the hosted server.
 * A keyboard \(optional\)
 * A screen \(optional\)
-
-#### Step 1
-
-* First you will ....
-
-#### Step 2
-
-#### Step 3
-

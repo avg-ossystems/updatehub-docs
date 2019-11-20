@@ -17,21 +17,16 @@
   * [Login with GitHub](getting-started/entering-to-updatehub/login-with-github.md)
   * [Sign in on existing account](getting-started/entering-to-updatehub/sign-in-on-existing-account.md)
 * [Preparing your Device](getting-started/preparing-your-device/README.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-9.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-8.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-7.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-6.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-5.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-4.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-3.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-2.md)
-  * [Untitled](getting-started/preparing-your-device/untitled-1.md)
-  * [Untitled](getting-started/preparing-your-device/untitled.md)
-* [Untitled](getting-started/untitled-1.md)
+  * [Step-1](getting-started/preparing-your-device/step-5.md)
+  * [Step-2](getting-started/preparing-your-device/step-4.md)
+  * [Step-3](getting-started/preparing-your-device/step-3.md)
+  * [Step-4](getting-started/preparing-your-device/step-2.md)
+  * [Step-5](getting-started/preparing-your-device/step-1.md)
 
-## Starting to work
+## starting-to-work
 
 * [It's Time!](starting-to-work/its-time.md)
+* [Dashboard](starting-to-work/dashboard.md)
 * [Creating an Organization](starting-to-work/creating-an-organization.md)
 * [Products](starting-to-work/products/README.md)
   * [Creating a Product](starting-to-work/products/creating-a-product.md)
@@ -40,6 +35,7 @@
   * [Creating a Rollout](starting-to-work/rollouts/creating-a-rollout.md)
   * [Advanced Rollouts](starting-to-work/rollouts/advanced-rollouts.md)
   * [Rollout Details](starting-to-work/rollouts/rollout-details.md)
+  * [Rollout List](starting-to-work/rollouts/rollout-list.md)
 * [Device Fleet Management](starting-to-work/device-fleet-management/README.md)
   * [Device Details](starting-to-work/device-fleet-management/device-details.md)
 * [Package List](starting-to-work/package-list/README.md)
@@ -73,4 +69,3 @@
 
 * [Questions](questions/questions.md)
 * [Suggestions](questions/suggestions.md)
-
