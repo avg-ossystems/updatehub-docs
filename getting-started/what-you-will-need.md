@@ -1,9 +1,5 @@
 # What you will need
 
-
-
-
-
 To follow this guide, you will need the following:
 
 * A Raspberry Pi 3 Model B or B+.
