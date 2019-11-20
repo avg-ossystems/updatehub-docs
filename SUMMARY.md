@@ -5,20 +5,33 @@
 ## Welcome
 
 * [Overview](welcome/overview.md)
+* [Features](welcome/features.md)
 
 ## Getting Started
 
+* [What to do](getting-started/what-to-do.md)
 * [What you will need](getting-started/what-you-will-need.md)
 * [Basic concepts](getting-started/basic-concepts.md)
 * [Entering to UpdateHub](getting-started/entering-to-updatehub/README.md)
   * [Creating a new account](getting-started/entering-to-updatehub/creating-a-new-account.md)
   * [Login with GitHub](getting-started/entering-to-updatehub/login-with-github.md)
   * [Sign in on existing account](getting-started/entering-to-updatehub/sign-in-on-existing-account.md)
-* [Preparing your Device](getting-started/preparing-your-device.md)
+* [Preparing your Device](getting-started/preparing-your-device/README.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-9.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-8.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-7.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-6.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-5.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-4.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-3.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-2.md)
+  * [Untitled](getting-started/preparing-your-device/untitled-1.md)
+  * [Untitled](getting-started/preparing-your-device/untitled.md)
 * [Untitled](getting-started/untitled-1.md)
 
 ## Starting to work
 
+* [It's Time!](starting-to-work/its-time.md)
 * [Creating an Organization](starting-to-work/creating-an-organization.md)
 * [Products](starting-to-work/products/README.md)
   * [Creating a Product](starting-to-work/products/creating-a-product.md)
