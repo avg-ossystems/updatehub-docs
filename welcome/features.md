@@ -1,7 +1,5 @@
 # Features
 
-
-
 The **UpdateHub** has a rich features set. On the management platform side, it offers support for:
 
 * Single and team managed products
@@ -19,4 +17,3 @@ The support provided by the **UpdateHub** for the device includes:
 * Conditional installation \(content, version and custom pattern support\)
 * Callback support for every update step
 * HTTP API to control and inquiry the local agent
-

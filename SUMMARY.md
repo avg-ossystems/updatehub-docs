@@ -1,10 +1,7 @@
 # Table of contents
 
-* [UPDATEHUB DOCUMENTS](README.md)
-
 ## Welcome
 
-* [Overview](welcome/overview.md)
 * [Features](welcome/features.md)
 
 ## Getting Started
@@ -17,11 +14,11 @@
   * [Login with GitHub](getting-started/entering-to-updatehub/login-with-github.md)
   * [Sign in on existing account](getting-started/entering-to-updatehub/sign-in-on-existing-account.md)
 * [Preparing your Device](getting-started/preparing-your-device/README.md)
-  * [Step-1](getting-started/preparing-your-device/step-5.md)
-  * [Step-2](getting-started/preparing-your-device/step-4.md)
+  * [Step-1](getting-started/preparing-your-device/step-1.md)
+  * [Step-2](getting-started/preparing-your-device/step-2.md)
   * [Step-3](getting-started/preparing-your-device/step-3.md)
-  * [Step-4](getting-started/preparing-your-device/step-2.md)
-  * [Step-5](getting-started/preparing-your-device/step-1.md)
+  * [Step-4](getting-started/preparing-your-device/step-4.md)
+  * [Step-5](getting-started/preparing-your-device/step-5.md)
 
 ## starting-to-work
 
