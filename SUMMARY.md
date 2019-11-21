@@ -17,8 +17,6 @@
   * [Step-1](getting-started/preparing-your-device/step-1.md)
   * [Step-2](getting-started/preparing-your-device/step-2.md)
   * [Step-3](getting-started/preparing-your-device/step-3.md)
-  * [Step-4](getting-started/preparing-your-device/step-4.md)
-  * [Step-5](getting-started/preparing-your-device/step-5.md)
 
 ## starting-to-work
 
@@ -46,7 +44,8 @@
 
 ## Integration
 
-* [Integrating onto an Existing Product](integration/integrating-onto-an-existing-product.md)
+* [Yoctoproject](integration/README.md)
+  * [Integration onto an existing product](integration/yoctoproject/integrating-onto-an-existing-product.md)
 * [Create a Product](integration/create-a-product.md)
 * [Generating a RSA Key](integration/generating-a-rsa-key.md)
 * [Pushing and Update Package](integration/pushing-and-update-package.md)
