@@ -1,3 +1,5 @@
+# Dashboard
+
 **UpdateHub** Cloud have a rich but simple interface with all the tools required to:
 
 - Create and operate your own `Products`

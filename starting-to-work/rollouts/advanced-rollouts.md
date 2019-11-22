@@ -17,6 +17,6 @@ Follow the steps ahead:
 * With multiple `Tasks` define the policy to begin new update processes by setting the starting point when a selected percentage of it is reached and the user can set if it must begin automatically or manually
 * `Save` the `Rollout` to start later or `Save and Start` it immediately
 
-![](../../.gitbook/assets/rolloutdetail.png)
+![](../../.gitbook/assets/rolloutadvancedtest.png)
 
 It is important to bear in mind that you can create as many `Tasks` as possible as long there is `Devices` available for the `Rollout` and choose names for each individual `Task` in order to organize and identify them.

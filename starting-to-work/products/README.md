@@ -1,5 +1,3 @@
 # Products
 
-To continue the work is essential to create products and this is very simple, just follow the next steps.
-
-TALVEZ SEJA MELHOR TIRAR ESTA PÁGINA!!!!!
+The basis that connects all together through the **UpdateHub** is the`Product`. Essentially the Product includes one or multiple `Devices` and for each of them there is a `Package` version that may be updated using a `Rollout`.

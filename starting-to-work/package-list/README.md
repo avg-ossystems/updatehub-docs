@@ -1,11 +1,23 @@
 # Package List
 
-**UpdateHub** Cloud have a rich but simple interface with all the tools required to:
+The `Packages` page, in the same fashion of the `Devices` page, exhibit a list with information about the packages inside a specific `Product` the user selected, such as:
 
-- Create and operate your own `Products`
-- Access `Products` from organizations
-- Check when new `Packages` are available for updates
-- Oversee a fleet of `Devices` on the field
-- Deploy updates via an Over-The-Air system running the `Rollouts`
+- Package Unique Identifier (UID)
+- Version
+- Supported hardware list
+- Status
+- Size
+- Upload date
 
-In essence the **UpdateHub** Cloud allows the oversight over the whole **UpdateHub** plataform and operations, making it easy to manage any need that you might have.
+Each one of these items help the user find a specific package. To filter more efficiently the packages you can select and associate them by the following items during the search:
+
+- Status of each package can be found depending on the situation for the `Rollout`
+  - _Available_: the package is ready to be downloaded
+  - _Upload in Progress_: package during the uploaded process
+  - _Removed_: packages that were removed from the packages list
+  - _Pending Progress_: packages being checked by the server
+  - _Packages with Error_: packages that failed the system checksum
+- Version for the package
+- Supported hardware
+
+![packages details](/../../.gitbook/assets/packagelist.png)
