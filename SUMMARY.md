@@ -58,8 +58,6 @@
 ## Billing
 
 * [Unlock Unlimated Usage](billing/unlock-unlimated-usage.md)
-* [Payment](billing/payment.md)
-* [Choose Country / Language](billing/choose-country-language.md)
 
 ## QUESTIONS?
 
