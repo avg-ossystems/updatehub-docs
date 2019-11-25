@@ -1,6 +1,6 @@
 # Creating a Product
 
-To you create one product is to easy just click on the BACK TO PRODUCTS link  and you will be again in the [welcome screen](creatingorganization.md).
+To you create one product is to easy just click on the BACK TO PRODUCTS link  and you will be again in the welcome screen.
 
 ![Back to Products](../../.gitbook/assets/productcreatingback.png)
 

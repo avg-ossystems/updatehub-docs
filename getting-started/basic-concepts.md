@@ -1,6 +1,6 @@
 # Basic concepts
 
-There are few basic concepts that are important to understand the **UpdateHub**. Those basic concepts are detailed below:
+There are few basic concepts that are important to understand the **UpdateHub** engine. Those basic concepts are detailed below:
 
 ### Device
 

@@ -1,23 +1,24 @@
-# Package List
+# Packages
 
-The `Packages` page, in the same fashion of the `Devices` page, exhibit a list with information about the packages inside a specific `Product` the user selected, such as:
+To send an update package first you need create one, so...
 
-- Package Unique Identifier (UID)
-- Version
-- Supported hardware list
-- Status
-- Size
-- Upload date
+Open the `local.conf` file and change the variable  
 
-Each one of these items help the user find a specific package. To filter more efficiently the packages you can select and associate them by the following items during the search:
 
-- Status of each package can be found depending on the situation for the `Rollout`
-  - _Available_: the package is ready to be downloaded
-  - _Upload in Progress_: package during the uploaded process
-  - _Removed_: packages that were removed from the packages list
-  - _Pending Progress_: packages being checked by the server
-  - _Packages with Error_: packages that failed the system checksum
-- Version for the package
-- Supported hardware
+>`UPDATEHUB_PACKAGE_VERSION_SUFFIX = "-test-image-1"`
 
-![packages details](/../../.gitbook/assets/packagelist.png)
+to
+
+>`"-test-image-2"`.  
+
+Save and close the file and run     
+
+> `$ updatehub-image-minimal-raspberrypi3.uhupkg`  
+
+and after     
+
+>`$ updatehub-image-minimal-raspberrypi3.uhupush`.  
+
+Then you go to the product screen into the **UpdateHub** and in some seconds you will see your package there.  
+
+![creating a package](/../../.gitbook/assets/package1.png)  
