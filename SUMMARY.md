@@ -1,61 +1,48 @@
 # Summary
 
-## Welcome
+## WELCOME
 * [Introduction](README.md)
 * [Features](welcome/features.md)
 
-## Getting Started
-* [What to do](getting-started/what-to-do.md)
+## GETTING STARTED
+* [This Guide](getting-started/README.md)
 * [What you will need](getting-started/what-you-will-need.md)
-* [Basic concepts](getting-started/basic-concepts.md)
-* [Entering to UpdateHub](getting-started/entering-to-updatehub/README.md)
-    * [Creating a new account](getting-started/entering-to-updatehub/creating-a-new-account.md)
-    * [Login with GitHub](getting-started/entering-to-updatehub/login-with-github.md)
-    * [Sign in on existing account](getting-started/entering-to-updatehub/sign-in-on-existing-account.md)
-* [Preparing your Device](getting-started/preparing-your-device/README.md)
-    * [Step-1](getting-started/preparing-your-device/step-1.md)
-    * [Step-2](getting-started/preparing-your-device/step-2.md)
-    * [Step-3](getting-started/preparing-your-device/step-3.md)
-    * [Step-4](getting-started/preparing-your-device/step-4.md)
+* [Creating an UpdateHub account](getting-started/creating-a-new-account.md)
+* [Creating an Organization](getting-started/creating-an-organization.md)
+* [Creating a Product](getting-started/creating-a-product.md)
+* [Creating an Access Key](getting-started/creating-access-key.md)
+* [Itializing Yocto Project](getting-started/initializing-yocto.md)
 
-## starting-to-work
-* [It's Time!](starting-to-work/its-time.md)
-* [Dashboard](starting-to-work/dashboard.md)
-* [Creating an Organization](starting-to-work/creating-an-organization.md)
-* [Products](starting-to-work/products/README.md)
-    * [Creating a Product](starting-to-work/products/creating-a-product.md)
-    * [Product Overview](starting-to-work/products/product-overview.md)
-* [Device Fleet Management](starting-to-work/device-fleet-management/README.md)
-    * [Device Details](starting-to-work/device-fleet-management/device-details.md)
-* [Rollouts](starting-to-work/rollouts/README.md)
-    * [Creating a Rollout](starting-to-work/rollouts/creating-a-rollout.md)
-    * [Advanced Rollouts](starting-to-work/rollouts/advanced-rollouts.md)
-    * [Rollout Details](starting-to-work/rollouts/rollout-details.md)
-    * [Rollout List](starting-to-work/rollouts/rollout-list.md)
-* [Packages](starting-to-work/package-list/README.md)
-    * [Package List](starting-to-work/package-list/packagelist.md)
-    * [Package Details](starting-to-work/package-list/package-details.md)
-* [Settings](starting-to-work/settings/README.md)
-    * [Access Key](starting-to-work/settings/access-key.md)
-    * [Organization](starting-to-work/settings/organization.md)
-* [Inviting People to Work](starting-to-work/inviting-people-to-work/README.md)
-    * [Access Levels](starting-to-work/inviting-people-to-work/access-levels.md)
+## DASHBOARD
+* [Meet the UpdateHub](dashboard/meet-updatehub.md)
+* [Creating a Product](dashboard/creating-product.md)
+* [Product Overview](dashboard/product-overview.md)
+* [Rollout List](dashboard/rollout-list.md)
+    * [Creating a Rollout](dashboard/creating-rollout.md)
+    * [Advanced Rollout](dashboard/rollout-advanced.md)
+    * [Rollout Details](dashboard/rollout-details.md)
+* [Device Fleet Management](dashboard/device-fleet.md)
+    * [Device Details](dashboard/device-details.md)
+* [Package List](dashboard/package-list.md)
+    * [Package Details](dashboard/package-details.md)
+* [Settings](dashboard/settings.md)
+    * [Access Key](dashboard/access-key.md)
+    * [Organization](dashboard/organization.md)
 
-## Integration
+## INTEGRATION GUIDE
 * [Yoctoproject](integration/README.md)
     * [Integration onto an existing product](integration/yoctoproject/integrating-onto-an-existing-product.md)
 * [Create a Product](integration/create-a-product.md)
 * [Generating a RSA Key](integration/generating-a-rsa-key.md)
 * [Pushing and Update Package](integration/pushing-and-update-package.md)
 
-## Editing your Profile
+## EDITING YOUR PROFILE
 * [Edit your name](editing-your-profile/edit-your-name.md)
 * [Add or remove an email](editing-your-profile/add-or-remove-an-email.md)
 
-## Billing
+## BILLING
 * [Unlock Unlimated Usage](billing/unlock-unlimated-usage.md)
 
 ## QUESTIONS?
-* [Questions](questions/questions.md)
+* [Questions](questions/faq-questions.md)
 * [Suggestions](questions/suggestions.md)
-

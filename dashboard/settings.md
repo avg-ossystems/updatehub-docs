@@ -6,4 +6,4 @@ At the `Settings` menu you will find the your information, and you will be able 
 - Application Access: contains different keys to access your data or a organization specific data
 - Organizations: a space for all the organizations that the user participates
 
-![settings](/../../.gitbook/assets/settingsscreen.png)
+![device details](../../.gitbook/assets/settingsscreen.png)

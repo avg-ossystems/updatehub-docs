@@ -1,4 +1,4 @@
-# What to do
+# Start Here
 
 This guide will help you get started with **UpdateHub** by supporting you keep all your products up-to-date in a simple way and at a lower cost.  
 
