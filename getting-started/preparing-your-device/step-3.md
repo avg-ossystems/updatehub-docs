@@ -1,5 +1,7 @@
 # Step-3
 
+---> talvez aqui seja interessante colocar um passo antes deste explicando como usar minicom.
+
 Now we have to enable the network in order to have internet access to connect the device to  **UpdateHub**.
 Then run the command:  
 

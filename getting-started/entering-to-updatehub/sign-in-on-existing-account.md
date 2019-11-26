@@ -1,7 +1,7 @@
 # Sign in on existing account   
 
 
-If you already created an UpdateHub account just logged in clicking in the LOG IN link.   
+If you already created an **UpdateHub** account just logged in clicking in the LOG IN link.   
 
 
 ![Login Screen](../../.gitbook/assets/getstartlogin.png)   
