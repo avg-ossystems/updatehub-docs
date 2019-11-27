@@ -1,3 +1,5 @@
 *.xcf
 _book/
 tutorial.md
+*~
+node_modules/

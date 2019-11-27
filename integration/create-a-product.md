@@ -1,6 +1,6 @@
 # Create a Product
 
-To create a new `Product` you have to access the **UpdateHub** Cloud through the internet browser. Once you enter the **UpdateHub** just follow the steps to generate a new `Product` as you can find them [here](../Dashboard/creatingProduct.md).
+To create a new `Product` you have to access the **UpdateHub** Cloud through the internet browser. Once you enter the **UpdateHub** just follow the steps to generate a new `Product` as you can find them [here](../dashboard/creating-product.md).
 
 After the `Product` has been created a _Unique Identifier Number_ is generated to identify it. This number, should be added to your build in order to allow the **UpdateHub** agent, which runs inside the target device, to communicate with the **UpdateHub** Cloud.
 

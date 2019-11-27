@@ -6,12 +6,19 @@
 
 ## GETTING STARTED
 * [This Guide](getting-started/README.md)
-* [What you will need](getting-started/what-you-will-need.md)
-* [Creating an UpdateHub account](getting-started/creating-a-new-account.md)
+* [What You Will Need](getting-started/what-you-will-need.md)
+* [Creating an UpdateHub Account](getting-started/creating-a-new-account.md)
 * [Creating an Organization](getting-started/creating-an-organization.md)
 * [Creating a Product](getting-started/creating-a-product.md)
 * [Creating an Access Key](getting-started/creating-access-key.md)
 * [Itializing Yocto Project](getting-started/initializing-yocto.md)
+* [Configuring local.conf File](getting-started/configure-local-conf.md)
+* [Generating the Image](getting-started/generating-image.md)
+* [New Version Image](getting-started/new-version-image.md)
+* [A Package](getting-started/a-package.md)
+* [Rollout](getting-started/rollout.md)
+* [Checking Out](getting-started/checking-out.md)
+
 
 ## DASHBOARD
 * [Meet the UpdateHub](dashboard/meet-updatehub.md)
@@ -37,8 +44,8 @@
 * [Pushing and Update Package](integration/pushing-and-update-package.md)
 
 ## EDITING YOUR PROFILE
-* [Edit your name](editing-your-profile/edit-your-name.md)
-* [Add or remove an email](editing-your-profile/add-or-remove-an-email.md)
+* [Edit Your Name](editing-your-profile/edit-your-name.md)
+* [Add or Remove an Email](editing-your-profile/add-or-remove-an-email.md)
 
 ## BILLING
 * [Unlock Unlimated Usage](billing/unlock-unlimated-usage.md)
