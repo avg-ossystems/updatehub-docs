@@ -1,4 +1,4 @@
-# Add or remove an email
+# Add or Remove an Email
 
 
 **To change or add an email**

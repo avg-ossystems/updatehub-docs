@@ -1,4 +1,4 @@
-# Edit your name
+# Edit Your Name
 
 **If you want you can edit your name or add a new email account.**
 

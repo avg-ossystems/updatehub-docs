@@ -1,4 +1,4 @@
-# What you will need
+# What You Will Need
 
 To follow this guide, you will need the following:
 

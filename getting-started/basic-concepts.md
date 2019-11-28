@@ -1,4 +1,4 @@
-# Basic concepts
+# Basic Concepts
 
 There are few basic concepts that are important to understand the **UpdateHub** engine. Those basic concepts are detailed below:
 

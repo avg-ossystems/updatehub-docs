@@ -1,4 +1,4 @@
-# Generating an image
+# Generating an Image
 
 After you configure the `local.conf` follow the next steps.
 
@@ -21,3 +21,5 @@ Now it's time to record the image in the SD card. Then in a terminal go to this 
  You can confirm the version of the image that is running on the target with the command `cat /etc/os-release` and you will see the version that you put in the `local.conf` file.
 
 >`UPDATEHUB_PACKAGE_VERSION_SUFFIX = "-test-image-1.0"`  
+
+![image instaled](../../.gitbook/assets/raspberry-zeus2.png)

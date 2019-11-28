@@ -1,4 +1,4 @@
-# Creating a new account
+# Creating a New Account
 
 
 The first thing you need to do is create an **UpdateHub** account and to do this follow the next steps.

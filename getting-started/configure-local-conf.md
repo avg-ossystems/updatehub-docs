@@ -1,4 +1,4 @@
-# Configuring the local.conf file
+# Configuring the Local.conf File
 
 
 After fetch the bitbake layers is important change some variables in the local.conf file
@@ -26,6 +26,10 @@ The RSA key bellow you can generate [here](../integration/generating-a-rsa-key.m
 The two variables below you learn how to create in the [DASHBOARD section](../dashboard/access-key.md)
 >`UPDATEHUB_ACCESS_ID = "your-email@gmail.com-8bc21121049af..."`    
 >`UPDATEHUB_ACCESS_SECRET = "9b1fcee96795fa5dea5cd04cb1d2..."`   
+
+In order to set an update interval for the device it is important to change the `UPDATEHUB_POLLING_INTERVAL` variable and at this time for testing purposes we will use a 1 minute interval so we will see the results quickly.    
+
+>`UPDATEHUB_POLLING_INTERVAL = "1m"`    
 
 And finally you need inform the `local.conf` file the product UID that you can see [here](../integration/create-a-product.md)
 >`UPDATEHUB_PRODUCT_UID = "db1b4f82911468d800569d33d55d5162557..."`   
