@@ -50,6 +50,5 @@
 ## BILLING
 * [Unlock Unlimated Usage](billing/unlock-unlimated-usage.md)
 
-## QUESTIONS?
-* [Questions](questions/faq-questions.md)
-* [Suggestions](questions/suggestions.md)
+## FAQ
+* [Questions](faq/faq-questions.md)
