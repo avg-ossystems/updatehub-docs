@@ -1,6 +1,8 @@
 # Creating a Product
 
-The basis that connects all together through the **UpdateHub** is the`Product`. Essentially the Product includes one or multiple `Devices` and for each of them there is a `Package` version that may be updated using a `Rollout`.
+The basis that connects all together through the **UpdateHub** is the`Product`.
+Essentially the Product includes one or multiple `Devices` and for each
+`Product` there is a `Package` version that may be updated using a `Rollout`.
 
 * To create one product click on the `BACK TO PRODUCTS` link  and you will be again in the welcome screen.
 

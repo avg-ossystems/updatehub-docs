@@ -11,7 +11,7 @@
 * [Creating an Organization](getting-started/creating-an-organization.md)
 * [Creating a Product](getting-started/creating-a-product.md)
 * [Creating an Access Key](getting-started/creating-access-key.md)
-* [Itializing Yocto Project](getting-started/initializing-yocto.md)
+* [Preparing Yocto Project](getting-started/preparing-yocto.md)
 * [Configuring local.conf File](getting-started/configure-local-conf.md)
 * [Generating the Image](getting-started/generating-image.md)
 * [New Version Image](getting-started/new-version-image.md)
