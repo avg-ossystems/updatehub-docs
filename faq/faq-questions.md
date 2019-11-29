@@ -1,5 +1,3 @@
 # Frequently Asked Questions
 
-- How
-- Update the
-  -  Yoctoproject
+[Can I deleted a product from my UpdateHub?](../faq/answers/answers.md)

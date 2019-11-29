@@ -19,7 +19,6 @@
 * [Rollout](getting-started/rollout.md)
 * [Checking Out](getting-started/checking-out.md)
 
-
 ## DASHBOARD
 * [Meet the UpdateHub](dashboard/meet-updatehub.md)
 * [Creating a Product](dashboard/creating-product.md)

@@ -1,0 +1,3 @@
+### Can I deleted a product?
+
+No you can't delete products because....
