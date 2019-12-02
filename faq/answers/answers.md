@@ -1,4 +1,3 @@
 # answers
 
-um
-dois
+* Can I delete a product? No it is not possible because...

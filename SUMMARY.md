@@ -50,4 +50,7 @@
 * [Unlock Unlimated Usage](billing/unlock-unlimated-usage.md)
 
 ## FAQ
-* [Questions](faq/faq-questions.md)
+* [Frequently Questions](faq/faq-questions.md)
+
+## YOCTO REFERENCE
+* [Yocto](yoctoreference.md)

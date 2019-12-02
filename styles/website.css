@@ -59,10 +59,10 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-
+/*
 .markdown-section img {
-    border: 1px solid lightgray;
-}
+    border: 1px solid lightgray; 
+}*/
 
 .markdown-section img.borderless {
     border: none;
