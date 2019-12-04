@@ -3,7 +3,7 @@
 * **UPDATEHUB_PRODUCT_UID** - identifies the product id in use. This is used by
 rollouts.
 
-* **UPDATEHUB_UHUPKG_PUBLIC_KEY**
+* **UPDATEHUB_UHUPKG_PUBLIC_KEY**   
   **UPDATEHUB_UHUPKG_PRIVATE_KEY**   
 
   The variables are required to point to the keys which are used to validate and
@@ -49,7 +49,6 @@ different values, as 'btrfs', 'ext2', 'ext3', 'ext4', 'f2fs', 'jffs2', 'ubifs',
    Specifies the updatehub Server address to use. This is required in
    case you are running it inside your private clould.
 
-
 * **UPDATEHUB_ACCESS_SECRET**
 
    When using the uhupush task we can override the Access Id and the
@@ -66,27 +65,3 @@ may be interesting for other users when doing custom server deployments.
 * **UPDATEHUB_PACKAGE_VERSION**
 * **UPDATEHUB_PACKAGE_VERSION_SUFFIX**
 * **UPDATEHUB_RUNTIME_PACKAGES**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-the updatehub server to identify the product and track the possible versions for
